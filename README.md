@@ -1,2 +1,4 @@
-# 42_ibm_ai_capstone_pytorch
-a course from IBM on coursera.org - February 2020
+AI Capstone Project with Deep Learning
+by IBM - February 2020
+
+Final Assignment
